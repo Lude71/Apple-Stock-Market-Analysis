@@ -272,3 +272,39 @@ Apple-Stock-Market-Analysis/
     ├── drawdown.png
     ├── correlation_matrix.png
     └── risk_return.png
+How to Run the Project
+1. Clone the Repository
+git clone https://github.com/Lude71/Apple-Stock-Market-Analysis.git
+2. Navigate to the Project
+cd Apple-Stock-Market-Analysis
+3. Install Dependencies
+pip install -r requirements.txt
+4. Open the Notebook
+
+Launch Jupyter Notebook or upload the notebook to Google Colab.
+
+jupyter notebook
+
+Open:
+
+notebooks/Apple_Stock_Market_Analysis.ipynb
+Key Takeaway
+
+The analysis demonstrates that Apple's stock delivered strong historical long-term growth between 2020 and 2026, but this performance was accompanied by substantial volatility and periods of significant drawdown.
+
+The project highlights the importance of evaluating both return and risk when analyzing financial assets rather than relying solely on price appreciation.
+
+Disclaimer
+
+This project is intended for educational and analytical purposes only.
+
+The analysis represents historical market data and should not be interpreted as financial advice, investment advice, or a recommendation to buy or sell Apple stock.
+
+Past performance does not guarantee future results.
+
+Author
+Eliud Kigen
+
+Telecommunication & Information Engineering Student
+AnalystLab Africa
+Data Analytics Enthusiast
